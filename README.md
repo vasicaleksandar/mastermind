@@ -1,1 +1,1 @@
-# mastermind
+# Mastermind game developed using WPF.
